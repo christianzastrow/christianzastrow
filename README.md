@@ -1,4 +1,4 @@
-### Hi there, I'm Christian Zastrow
+### Hi there, I'm Christian Zastrow:
 ### Energized MSOE Electrical Engineer Freshman Sparking Change in the World of Electricity
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=christianzastrow&theme=prussian)
