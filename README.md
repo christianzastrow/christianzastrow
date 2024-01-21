@@ -1,7 +1,7 @@
 ### Hi there, I'm Christian Zastrow
 ### Energized MSOE Electrical Engineer Freshman Sparking Change in the World of Electricity
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=christianzastrow)
+![My github stats](https://github-readme-stats.vercel.app/api?username=christianzastrow&theme=prussian)
 
 ### I'm currently working on my own website portfolio and designing an autonomous drone!
 ### I'm also learning html, css, and rust right now!
